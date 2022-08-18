@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a senior undergraduate student majoring ![CS](https://www.nju.edu.cn/EN/7f/6b/c7136a163691/page.htm) in ![NJU](https://www.nju.edu.cn/main.htm).
-- 📫 How to reach me: ![email](chester.yinxz@gmail.com)
+- 🔭 I’m a senior undergraduate student majoring [CS](https://www.nju.edu.cn/EN/7f/6b/c7136a163691/page.htm) in [NJU](https://www.nju.edu.cn/main.htm).
+- 📫 How to reach me: 
+  - [my email](chester.yinxz@gmail.com)
+  - QQ: 1263522794
 
