@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a senior undergraduate student majoring [CS](https://www.nju.edu.cn/EN/7f/6b/c7136a163691/page.htm) in [NJU](https://www.nju.edu.cn/main.htm).
+- 🔭 I am a Ph.D. candidate from [the Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm), with a specialization in Software Engineering. 
+-😍
 - 📫 How to reach me: 
-  - [my email](chester.yinxz@gmail.com)
+  - [my email](1263522794@qq.com)
 
