@@ -13,9 +13,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/xizheyin">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xizheyin&theme=radical" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizheyin&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=xizheyin&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ## 💻 Tech Stack
