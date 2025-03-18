@@ -14,13 +14,6 @@
 
 
 
-<!-- 替换不显示的Streak Stats -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xizheyin&theme=radical&column=8&margin-w=15&no-frame=true&no-bg=true&rank=-C,-B" alt="GitHub Trophies" />
-</div>
-
-
-
 ## 💻 Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
