@@ -12,13 +12,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xizheyin&show_icons=true&theme=radical&count_private=true&rank_icon=github" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizheyin&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
+<!-- 替代Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=xizheyin&theme=radical" alt="GitHub Streak Stats" />
 </div>
+
+<!-- 语言统计 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xizheyin&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<!-- 替换不显示的Streak Stats -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xizheyin&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+
 
 ## 💻 Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
