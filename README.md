@@ -13,7 +13,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizheyin&theme=radical" />
+  <a href="https://github.com/xizheyin">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xizheyin&theme=radical" />
+  </a>
 </div>
 
 ## 💻 Tech Stack
