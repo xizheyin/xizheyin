@@ -2,10 +2,7 @@
 
 ### 📚 About Me
 - 🎓 I'm a Ph.D. student at the [School of Computer Science and Technology](https://cs.nju.edu.cn/cs_en/) of [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm)
-- 🔬 Research Area: SE
-- 🌱 Currently researching: Program Testing, Analysis, Software Supply Chain.
-
-
+- 🔬 Research Area: Program Testing, Analysis, Software Supply Chain.
 
 ### 📊 GitHub Stats
 <div align="center">
