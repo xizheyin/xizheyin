@@ -9,8 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xizheyin&show_icons=true&theme=radical&count_private=true&rank_icon=github" />
 </div>
 
-
-
 ### 💻 Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -29,19 +27,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 
-
 ### 📫 Contact Me
 [![Academic Email](https://img.shields.io/badge/-Academic%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xizheyin@smail.nju.edu.cn)
 [![Personal Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chester.yinxz@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/-@yin23989-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yin23989)
-
-<!-- Visit Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xizheyin&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-</div>
-
----
-
-<div align="center">
-  <i>✨ Thanks for visiting my GitHub profile! ✨</i>
-</div>
