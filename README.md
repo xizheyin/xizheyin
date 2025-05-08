@@ -5,7 +5,7 @@
 
 
 ## GitHub Stats
-<div align="center">
+<div align="center" stype="width:220px">
   <img src="https://github-readme-stats.vercel.app/api?username=xizheyin&show_icons=true&theme=radical&count_private=true&rank_icon=github" />
 </div>
 
