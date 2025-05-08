@@ -5,8 +5,9 @@
 
 
 ## GitHub Stats
-<div align="center" stype="width:220px">
-  <img src="https://github-readme-stats.vercel.app/api?username=xizheyin&show_icons=true&theme=radical&count_private=true&rank_icon=github" />
+<div align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=xizheyin&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xizheyin&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 ## Contact Me
