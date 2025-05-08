@@ -11,5 +11,4 @@
 
 ## Contact Me
 [![Academic Email](https://img.shields.io/badge/-Academic%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xizheyin@smail.nju.edu.cn)
-[![Personal Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chester.yinxz@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/-@yin23989-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yin23989)
