@@ -1,7 +1,6 @@
 ## About Me
-- I'm a Ph.D. student at the [School of Computer Science and Technology](https://cs.nju.edu.cn/cs_en/) of [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm)
-- Currently researching: Program Testing, Analysis, Software Supply Chain.
-
+I'm a Ph.D. student at the [School of Computer Science and Technology](https://cs.nju.edu.cn/cs_en/) of [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm)
+I am actively working for the open source community, especially Rust related.
 
 
 ## GitHub Stats
